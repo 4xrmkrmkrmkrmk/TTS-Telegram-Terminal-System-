@@ -1,0 +1,14 @@
+TTS-Telegram-Terminal-System-
+
+Written in Kotlin.
+
+The entire project was created with the idea of remote access and servicing of a fire brigade computer connected to the mobile internet. All you need to run is java and a bot token
+
+Exemplary startup
+ java -jar build/libs/TelegramTerminal-1.0-SNAPSHOT.jar TOKEN
+
+List of ready-made commands for BOTA
+ /help
+
+An example of running the "pwd" command
+ /c pwd
